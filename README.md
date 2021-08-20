@@ -1,5 +1,5 @@
 # FourCardFeature
-A Frontend Mentor Challenge.
+A begginer level Frontend Mentor challenge.
 My GitHub was not linked to Frontend Mentor at the time I created this which is why the images and
 fonts are not exact. Frontend mentor gives you a number of files which includes font/image info
 when you link your GitHub account to the website and select start challenge on their site.
